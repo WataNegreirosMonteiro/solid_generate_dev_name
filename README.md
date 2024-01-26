@@ -31,7 +31,7 @@ This repository houses a project dedicated to studying and implementing the prin
 
 <div align="center">
 
-![image](https://appmaster.io/api/_files/ksS4LREjVDEfr52cscyyaW/download/)
+![carbon](https://github.com/WataNegreirosMonteiro/solid_generate_dev_name/assets/90472705/2e18893c-c62d-47dc-9eb6-fb4a55b64fd9)
 
 </div>
 
